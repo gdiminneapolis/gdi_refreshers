@@ -12,7 +12,7 @@ practice the skills they learned in the class.
 
 ## How is this different from Toast and Tech or Code and Coffee?
 
-This is a regularly scheduled event where everyone is focusing on the
+This is a *ir*regularly scheduled event where everyone is focusing on the
 same topic and learning structure.
 
 - Guided learning
