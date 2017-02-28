@@ -16,9 +16,14 @@ This is a *ir*regularly scheduled event where everyone is focusing on the
 same topic and learning structure.
 
 - Guided learning
-- Same night of the month (e.g. "First Friday")
 - In a class room setting vs. coffeeshop
 - Each session has a defined starting point and desired outcome
+- Maybe? Same night of the month (e.g. "First Friday") (or maybe not)
+  This is something to think about; regularity helps folks remember to
+  attend, but spreading it to other nights of the week or possibly
+  weekends could let more people participate. On the third hand,
+  regular scheduling means less logistics around holding the event.
+
 
 ## Possible Topics
 
@@ -26,6 +31,7 @@ same topic and learning structure.
 - JavaScript photo gallery
 - CSS specificity
 - File and Folder structure
+- Learning your editor
 - Simple command line navigation
 - New Project Initialization
 - Creating a GitHub remote repository and connecting it to your local
@@ -34,9 +40,11 @@ same topic and learning structure.
 - Finding a Hosting Solution
 - Exploring cPanel
 - Publishing with FTP
+- Publishing with other tools
 - Using Bootstrap
 - Using Sass
 - Setting up a WordPress Theme
+- Setting up your own server
 
 ## Leaders
 
