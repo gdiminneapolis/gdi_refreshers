@@ -51,77 +51,76 @@ on the same page, and share any learnings.
 
    Live Review
 
-5. Create two `div` elements. Set the first `div`'s `id` attribute to
+1. Create two `div` elements. Set the first `div`'s `id` attribute to
    `gallery` and the second `div`'s `id` tag to `large_image`. Doing
    so will let you use the given CSS and you won't have to write your
    own.
 
    Live Review
 
-6. In the `gallery` `div`, create 6 thumbnail `div`s (to match the
+1. In the `gallery` `div`, create 6 thumbnail `div`s (to match the
    number of images)
 
    Live Review
 
-7. Save the `index.html` file and open it in your browser.
+1. Save the `index.html` file and open it in your browser.
 
    Live Review
 
-8. Open the `galleryScripts.js` file in your editor
-9. Using JavaScript, find and select the `gallery` element and save it
-   in a variable of your choice
+1. Open the `galleryScripts.js` file in your editor. Using JavaScript,
+   find and select the `gallery` element and save it in a variable of
+   your choice
 
    Live Review
 
-
-10. Find and select the `large_image` element and save it in a
-    variable of your choice
-
-    Live Review
-
-11. Find and select **all** the thumbnail elements and save that in a
-    variable
+1. Find and select the `large_image` element and save it in a
+   variable of your choice
 
    Live Review
 
-12. Verify that you have selected the right elements in each
-    case. (How will you do that?)
+1. Find and select **all** the thumbnail elements and save that in a
+   variable
 
    Live Review
 
-13. Think about how you want the gallery to act? What interactions are
-    we expecting the user to perform?
-	- when a user clicks on a thumbnail, the full-size image replaces
-      the current image in the large area
-	- the selected thumbnail is highlighted
-	- any previously selected thumbnails are un-highlighted
+1. Verify that you have selected the right elements in each
+   case. (How will you do that?)
 
    Live Review
 
-14. Set up a *click* handler for each thumbnail (How will you do
-    that?)
+1. Think about how you want the gallery to act? What interactions are
+   we expecting the user to perform?
+   - when a user clicks on a thumbnail, the full-size image replaces
+     the current image in the large area
+   - the selected thumbnail is highlighted
+   - any previously selected thumbnails are un-highlighted
 
    Live Review
 
-15. Test you've done this correctly (How will you do that?)
+1. Set up a *click* handler for each thumbnail (How will you do
+   that?)
 
    Live Review
 
-16. When the user clicks on the thumbnail, we want to take the
-    contents of the thumbnail `div` (which should be the `img`
-    element) and replace the contents of the `large_image` div with
-    that content.
+1. Test you've done this correctly (How will you do that?)
 
    Live Review
 
-17. Also, when the user clicks on the thumbnail, make the clicked
-    thumbnail become highlighted. Use the `selected_thumb` class to
-    highlight it
+1. When the user clicks on the thumbnail, we want to take the
+   contents of the thumbnail `div` (which should be the `img`
+   element) and replace the contents of the `large_image` div with
+   that content.
 
    Live Review
 
-18. Remove any previously selected highlights by removing
-    `selected_thumb` from any other thumbnail `div`s
+1. Also, when the user clicks on the thumbnail, make the clicked
+   thumbnail become highlighted. Use the `selected_thumb` class to
+   highlight it
+
+   Live Review
+
+1. Remove any previously selected highlights by removing
+   `selected_thumb` from any other thumbnail `div`s
 
    Live Review
 
